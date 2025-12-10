@@ -86,14 +86,6 @@ The data pipeline includes:
    * Filters & formatting
    * Dashboard layout and interactions
 
-## 📸 Dashboard Preview
-
-![Dashboard Preview](images/dashboard_preview.png)
-
-*(Replace with your actual image path in the repo)*
-
----
-
 ## 💡 Key Skills Demonstrated
 
 * Tableau Dashboard Development
@@ -103,22 +95,6 @@ The data pipeline includes:
 * Sales & Revenue Analysis
 * Insight-driven visualization
 
----
-
-## 📥 How to Use the Project
-
-1. Clone the repository
-
-   ```bash
-   git clone https://github.com/yourusername/sales-revenue-analytics.git
-   ```
-2. Open the **Tableau Prep Flow** (`.tfl`) to view data cleaning steps.
-3. Open the **Tableau Dashboard** (`.twbx`) in Tableau Desktop.
-4. Explore charts, filters, and insights interactively.
-
----
-
-## 🔮 Future Enhancements
 
 * Add forecasting and trend prediction
 * Integrate with SQL or cloud database
